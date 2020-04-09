@@ -1,1 +1,6 @@
-  
+Each folder corresponds to the implementation of a scheduling function on 6TiSCH simulator:
+LDSF:     Low-latency Distributed SchedulingFunction for Industrial Internet of Things
+LLSF:     T. Chang et al., “LLSF: Low Latency Scheduling Function for 6TiSCH Networks,” in International Conference on Distributed Computing inSensor Systems (DCOSS), May 2016.
+Stratum:  I. Hosni, F. Theoleyre, and N. Hamdi, “Localized scheduling for endto-end delay constrained Low Power Lossy networks with 6TiSCH,” inISCC, June 2016, pp. 507–512.
+MSF:      https://tools.ietf.org/html/draft-ietf-6tisch-msf-03
+Tools:    Process tools and plot tools
